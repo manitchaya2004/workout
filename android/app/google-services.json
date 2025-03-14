@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392439179445",
+    "project_id": "manitchaya-cd45d",
+    "storage_bucket": "manitchaya-cd45d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392439179445:android:b84247b945d25f9a1536fc",
+        "android_client_info": {
+          "package_name": "com.example.manitchaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYmpnkPjtdKs7uHBuChv1e-WgtoO1JA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
